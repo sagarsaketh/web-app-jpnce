@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'bhawani-webapp-jpnce'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_163EFE774E874358938D777119A273E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B54441894FBD43E6ACE574BD9B24F081 }}
